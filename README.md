@@ -3,7 +3,8 @@
 ##### Source:
 - Article : https://www.twigblock.com/projects
 
-##### Objective: To learn and practice the Ethereum Blockchain Analytics using Dune Platform
+##### Objective: 
+- To learn and practice the Ethereum Blockchain Analytics using Dune Platform
 
 ##### Dashboard 1: Ethereum Activity
 ###### Metrics
