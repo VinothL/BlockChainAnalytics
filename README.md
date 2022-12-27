@@ -6,7 +6,7 @@
 ##### Objective: 
 - To learn and practice the Ethereum Blockchain Analytics using Dune Platform
 
-##### Analysis I: Ethereum Activity
+#### Analysis I: Ethereum Activity
 ###### Metrics
 - Total Transaction executed, Total Smart Contracts, Total Actively transacted Wallets since inception
 - Month-Wise Total transaction, Smart Contract Created, Actively transacted Wallets
@@ -22,7 +22,7 @@
 ###### Languages : SQL
 
 
-##### Analysis II: Ethereum Gas Activity
+#### Analysis II: Ethereum Gas Activity
 ###### Metrics
 - Gas limit, Gas Price Paid
 - Minimum and Maximum Gas paid within the given single block
