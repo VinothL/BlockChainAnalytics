@@ -37,3 +37,16 @@
 
 ###### Platform : Dune.com
 ###### Languages : SQL
+
+
+#### Analysis III: Ethereum Consensus, Token Issuance and Merge Analysis
+###### Metrics
+- Maximum Nounce difficulty
+- Beacon Chain live date , Total Eth deposited, Highest stake percentage
+- Daily Eth Issuance rate post the Merge 
+
+###### Sourcecode
+- ethereum_consesus_queries.sql
+
+###### Platform : Dune.com
+###### Languages : SQL
