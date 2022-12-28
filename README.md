@@ -1,4 +1,4 @@
-# BlockChain Analytics
+# Ethereum BlockChain Analytics
 
 ##### Source:
 - Article : https://www.twigblock.com/projects
